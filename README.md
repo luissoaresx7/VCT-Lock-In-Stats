@@ -1,6 +1,6 @@
 
 
-# Trabalho de banco de dados baseado no Campeonato Mundial de Valorant VCT Lock'In São Paulo.
+# Banco de dados baseado no Campeonato Mundial de Valorant VCT Lock'In São Paulo.
 
 ## As querys utilizadas no dashboard foram: [Dashborad](https://lookerstudio.google.com/reporting/3ce747b2-da56-457a-b245-594d45b5c859)
 ### os Dados do banco de dados: [Excel](https://docs.google.com/spreadsheets/d/1aJnXW9uWCcSHVW78dwRLXT-COAffwYq4_OcXyhuVoAo/edit?usp=sharing)
